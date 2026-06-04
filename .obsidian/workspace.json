@@ -6,6 +6,7 @@
       {
         "id": "0256de9c1fb16e87",
         "type": "tabs",
+        "dimension": 60.132291040288635,
         "children": [
           {
             "id": "96d6473a795e5ba5",
@@ -13,12 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "机器学习/第一章.md",
+                "file": "机器学习/机器学习概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第一章"
+              "title": "机器学习概述"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f981a0008159edcd",
+        "type": "tabs",
+        "dimension": 39.867708959711365,
+        "children": [
+          {
+            "id": "72afd71def2ce283",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapview",
+              "state": {
+                "file": "机器学习/机器学习概述-mindmap.md"
+              },
+              "icon": "blocks",
+              "title": "机器学习概述-mindmap"
             }
           }
         ]
@@ -187,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 395.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,8 +224,11 @@
   },
   "active": "96d6473a795e5ba5",
   "lastOpenFiles": [
-    "读书笔记/骆驼祥子.md",
+    "机器学习/机器学习概述-mindmap.md",
+    "机器学习/机器学习概述.md",
+    "机器学习/未命名.md",
     "机器学习/第一章.md",
+    "读书笔记/骆驼祥子.md",
     "我的日记/嗯嗯.md",
     "2026-06-03.md",
     "欢迎.md",
